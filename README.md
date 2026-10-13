@@ -1,5 +1,7 @@
 # 2D Survivor game in Godot
 
+> **johnsu6616 改版**：美術暫時換成色塊（`tools/placeholder_art.py`），方便先改玩法；原圖在 git 歷史 `c2479a0`（含）之前。
+
 This is a game I made as part of my Godot learning process, while following [Firebelley's Udemy course](https://www.udemy.com/course/create-a-complete-2d-arena-survival-roguelike-game-in-godot-4/). The game is based on Vampire Survivor game.
 
 All assets used in this project are free of license. References to them can be found in the references section below.
